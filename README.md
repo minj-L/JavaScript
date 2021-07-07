@@ -1,6 +1,6 @@
 ## 자바스크립트 프로그래밍 입문 한 권으로 배우는 웹 서버/클라이언트 개발
 
-![자바스크립트프로그래밍입문](https://user-images.githubusercontent.com/52521457/123245380-bad29f00-d51f-11eb-8a5a-100585c04f7f.jpg)
+<img src = "https://user-images.githubusercontent.com/52521457/123245380-bad29f00-d51f-11eb-8a5a-100585c04f7f.jpg" width="50%" height="50%">
 
 **출판사** 한빛아카데미   
 **저자명** 윤인성   
