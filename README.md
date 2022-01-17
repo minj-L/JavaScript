@@ -2,6 +2,8 @@
 
 <img src = "https://user-images.githubusercontent.com/52521457/123245380-bad29f00-d51f-11eb-8a5a-100585c04f7f.jpg" width="30%" height="30%">
 
+<img src="https://img.shields.io/badge/-JavaScrpit-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+
 **출판사** 한빛아카데미   
 **저자명** 윤인성   
 **출판일** 2016년 12월 15일   
